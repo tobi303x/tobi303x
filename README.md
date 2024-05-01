@@ -39,7 +39,6 @@
 Hey there, I'm Tobiasz Sikora, a student currently pursuing studies at AGH University of Science and Technology, deeply fascinated by the realms of Data Science and Machine Learning. 
 I really enjoy digging into data-driven solutions and staying on top of the latest tech trends. I've always been good at problem-solving and thinking analytically, and I'm constantly eager to learn and stay updated with what's happening in the field. With my background in computer science and my increasing knowledge in data analysis and modeling, I'm in a perfect position to make some meaningful contributions.
 </p>
-<br/>
 
 ## Stack
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -79,13 +78,12 @@ I really enjoy digging into data-driven solutions and staying on top of the late
   <a href="https://github.com/tobi303x?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2AA889?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
 <hr/>
 <br/>
 
 <p align="center">
   <a href="https://github.com/tobi303x">
-    <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tobi303x&theme=gotham&border_radius=5&title_color=FFFFFF&mode=weekly" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tobi303x&theme=gotham&border_radius=5&title_color=FFFFFF&mode=weekly" alt="GitHub streak"/>
   </a>
 </p>
 
