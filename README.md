@@ -67,6 +67,7 @@ I really enjoy digging into data-driven solutions and staying on top of the late
 ![Affinity](https://img.shields.io/badge/affinity-222324?style=for-the-badge&logo=affinity&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 <br/>
+
 ## Best Projects
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=tobi303x&repo=Machine-Learning-Projects&border_color=2AA889&show_icons=true&theme=gotham)](https://github.com/tobi303x/Machine-Learning-Projects)
 [![Adults-Income-KNN-model](https://github-readme-stats.vercel.app/api/pin/?username=tobi303x&repo=Adults-Income-KNN-model&border_color=2AA889&show_icons=true&theme=gotham)](https://github.com/tobi303x/Adults-Income-KNN-model)
